@@ -1,0 +1,23 @@
+Package: com.daguysdocktweak
+Filename: ./debs/com.daguysdocktweak.deb
+Name: daguysdocktweak
+Version: 1.0
+Section: tweaks
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak Clear dock for iPads iOS 11
+Author: pwned4ever <pwned4k@gmail.com>
+Maintainer: pwned4ever <pwned4k@gmail.com>
+Sponsor: pwned4ever (twitter) <http://twitter..com/pwned4ever>
+Tag:
+
+Architecture: iphoneos-arm
+Author: pwned4ever <>
+Depends: mobilesubstrate
+Description: An awesome MobileSubstrate tweak Clear dock for iPads iOS 11
+Maintainer: pwned4ever
+Name: daguysdocktweak
+Package: com.daguysdocktweak
+Section: tweaks
+Version: 1.0
+Filename: ./debs/com.daguysdocktweak.deb
+
